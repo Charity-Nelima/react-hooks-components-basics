@@ -5,3 +5,8 @@ function Comment() {
 }
 
 export default Comment;
+// import React from "react";
+// function comment () {
+//   <div>hey am claerly seing some canges</div>;
+// }
+// export default comment;
